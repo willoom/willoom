@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Willoom
-- 👀 I’m interested in ... learning, teaching, algorithmics, games, services, operating systems, security.
+- 👀 I’m interested in ... learning, teaching, algorithmics, games, services, operating systems.
 - 🌱 I’m currently learning ... python, games, web development.
 - 💞️ I’m looking to collaborate on ... my own projects.
 - 📫 How to reach me ... don't do it. I'll reach you.
