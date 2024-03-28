@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Willoom
+- 👋 Hi, I’m @willoom
 - 👀 I’m interested in ... learning, teaching, algorithmics, games, services, operating systems.
 - 🌱 I’m currently learning ... python, games, web development.
 - 💞️ I’m looking to collaborate on ... my own projects.
